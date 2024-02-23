@@ -9,6 +9,12 @@ C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\obj\Release\Playnal.
 C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\obj\Release\Playnal.Properties.Resources.resources
 C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\obj\Release\Playnal.csproj.GenerateResource.cache
 C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\obj\Release\Playnal.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\obj\Release\Playnal.csproj.CopyComplete
 C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\obj\Release\Playnal.exe
 C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\obj\Release\Playnal.pdb
+C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\bin\Release\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\bin\Release\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\bin\Release\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\bin\Release\Microsoft.Web.WebView2.Core.dll
+C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\bin\Release\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\bin\Release\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\micha\Documents\github\Playnal\Src\Playnal\Playnal\obj\Release\Playnal.csproj.Up2Date
